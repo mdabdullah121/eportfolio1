@@ -8,7 +8,7 @@
    <h2>show confidence and skills in oral communications and presentations</h2>
      <img src="https://github.com/mdabdullah121/eportfolio1/blob/main/confidence.jpg">
    <h3>work effectively as part of a team</h3>
-     <img src="link">
+     <img src="https://github.com/mdabdullah121/eportfolio1/blob/main/team.jpg">
    <h4>communicate effectively in a professional context</h4>
      <img src="link">
    <h5>define and demonstrate conflict management and resolution strategies</h5>
