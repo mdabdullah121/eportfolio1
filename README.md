@@ -12,6 +12,6 @@
    <h4>communicate effectively in a professional context</h4>
      <img src="https://github.com/mdabdullah121/eportfolio1/blob/main/context.jpg">
    <h5>define and demonstrate conflict management and resolution strategies</h5>
-     <img src="link">
+     <img src="https://github.com/mdabdullah121/eportfolio1/blob/main/conflict.jpg">
    </body>
    </html>
